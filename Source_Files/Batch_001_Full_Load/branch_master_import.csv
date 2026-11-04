@@ -1,0 +1,6 @@
+branch_id,branch_name,city,state,branch_status
+BR001,Hyderabad Main Branch,Hyderabad,Telangana,ACTIVE
+BR002,Vijayawada Central Branch,Vijayawada,Andhra Pradesh,ACTIVE
+BR003,Warangal Branch,Warangal,Telangana,ACTIVE
+BR004,Visakhapatnam Branch,Visakhapatnam,Andhra Pradesh,ACTIVE
+BR005,Guntur Branch,Guntur,Andhra Pradesh,ACTIVE

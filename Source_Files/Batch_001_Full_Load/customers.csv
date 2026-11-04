@@ -1,0 +1,11 @@
+﻿customer_id,first_name,last_name,date_of_birth,email,mobile,city,customer_status,created_date,modified_date
+CUST1001,Ravi,Kumar,1990-05-12,ravi.kumar@example.com,9876543210,Hyderabad,ACTIVE,2026-10-01 09:00:00,2026-10-01 09:00:00
+CUST1002,Ananya,Reddy,1988-11-23,ananya.reddy@example.com,9876543211,Vijayawada,ACTIVE,2026-10-01 09:15:00,2026-10-01 09:15:00
+CUST1003,Kiran,Sharma,1995-02-08,kiran.sharma@example.com,9876543212,Warangal,ACTIVE,2026-10-01 09:30:00,2026-10-01 09:30:00
+CUST1004,Meera,Nair,1992-07-19,meera.nair@example.com,9876543213,Visakhapatnam,ACTIVE,2026-10-01 09:45:00,2026-10-01 09:45:00
+CUST1005,Arjun,Rao,1985-12-02,arjun.rao@example.com,9876543214,Hyderabad,ACTIVE,2026-10-01 10:00:00,2026-10-01 10:00:00
+CUST1006,Sana,Begum,1998-03-14,sana.begum@example.com,9876543215,Guntur,ACTIVE,2026-10-01 10:15:00,2026-10-01 10:15:00
+CUST1007,Vikram,Patel,1982-09-30,vikram.patel@example.com,9876543216,Rajahmundry,ACTIVE,2026-10-01 10:30:00,2026-10-01 10:30:00
+CUST1008,Divya,Iyer,1994-01-25,divya.iyer@example.com,9876543217,Tirupati,ACTIVE,2026-10-01 10:45:00,2026-10-01 10:45:00
+CUST1009,Naveen,Das,1991-06-17,naveen.das@example.com,9876543218,Kakinada,ACTIVE,2026-10-01 11:00:00,2026-10-01 11:00:00
+CUST1010,Priya,Menon,1989-04-09,priya.menon@example.com,9876543219,Hyderabad,ACTIVE,2026-10-01 11:15:00,2026-10-01 11:15:00
